@@ -2,7 +2,7 @@
 
 
 
- #### A security audit is a review of an organization's security records, activities, and other related documents. For example, an analyst may examine in-house security issues, such as making sure that confidential information, like individual computer passwords, isn't available to all employees.
+ #### A security audit is a review of an organization's security records, activities, and other related documents. For example, an analyst may examine in-house security issues, such as making sure that confidential information, like individual computer passwords, isn't available to all employees
 
 
  - Compliance is the process of adhering to internal standards and external regulations and enables organizations to avoid fines and security breaches.
